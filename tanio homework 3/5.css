@@ -1,0 +1,28 @@
+.reg
+{
+	background-color: #69DB4F;	
+	text-align: center;
+	width:300px;
+	font-size: 30px;
+	color:white;
+	padding: 10px;
+
+}
+.box
+{
+	background-color: #DBF3F1;
+	width:298px;
+	text-align: center;
+	border:1px solid black;
+	padding: 10px;
+	border-top: hidden;
+}
+.but button
+{
+	background-color: #69DB4F;
+	padding: 10px;
+	width:175px;
+	color:white;
+
+}
+
