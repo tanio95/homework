@@ -1,0 +1,23 @@
+.header
+{
+	background-color: lightblue;
+	height: 330px;	
+}
+.header1
+{
+	border: 5px solid white;
+	background-color: lightblue;
+	margin:15px;
+	padding: 15px;
+	position: absolute;
+	top:30px;
+	width: 400px;
+}
+.header1 button
+{
+	border-radius: 10px;
+	background-color: blue;
+	padding:15px;
+	border:1px solid blue;
+    color:white;
+}

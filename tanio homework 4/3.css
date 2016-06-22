@@ -1,0 +1,5 @@
+.text
+{
+	-webkit-column-count: 3;
+	-webkit-column-rule: 3px solid orange;
+}
