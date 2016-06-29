@@ -1,0 +1,59 @@
+header h1 {
+  color: purple;
+  text-align: center; }
+header h2 {
+  text-align: center; }
+header table {
+  border-collapse: collapse;
+  width: 200px;
+  float: left;
+  margin-left: 355px; }
+  header table tbody tr:nth-child(odd) {
+    background-color: #f8f8f8; }
+  header table tr td {
+    padding: 15px;
+    text-align: center; }
+    header table tr td input {
+      background-color: #afa46b;
+      border: none;
+      padding: 5px;
+      width: 150px;
+      border-radius: 5px 5px 5px 5px;
+      color: white;
+      margin-top: 15px; }
+header .table1 {
+  border-collapse: collapse;
+  width: 200px;
+  margin-left: 20px; }
+  header .table1 tbody tr:nth-child(odd) {
+    background-color: #f8f8f8; }
+  header .table1 tr td {
+    padding: 15px;
+    text-align: center; }
+    header .table1 tr td input {
+      background-color: #7d974e;
+      border: none;
+      padding: 5px;
+      width: 150px;
+      border-radius: 5px 5px 5px 5px;
+      color: white;
+      margin-top: 15px; }
+header .table2 {
+  border-collapse: collapse;
+  width: 200px;
+  margin-left: 20px; }
+  header .table2 tbody tr:nth-child(odd) {
+    background-color: #f8f8f8; }
+  header .table2 tr td {
+    padding: 15px;
+    text-align: center; }
+    header .table2 tr td input {
+      background-color: #4d7696;
+      border: none;
+      padding: 5px;
+      width: 150px;
+      border-radius: 5px 5px 5px 5px;
+      color: white;
+      margin-top: 15px; }
+
+/*# sourceMappingURL=output.css.map */
