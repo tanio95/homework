@@ -76,7 +76,8 @@ section {
     top: 280px; }
   section .text1 {
     float: left;
-    width: 58%; }
+    width: 58%;
+    margin-left: 25px; }
     section .text1 h1 {
       font-size: 25px; }
   section .text2 {
@@ -104,7 +105,7 @@ footer {
 
   section img {
     margin-left: -85px;
-    margin-top: -5px; }
+    margin-top: 45px; }
   section .text1 {
     width: 100%;
     margin-left: 15px; }
@@ -113,6 +114,10 @@ footer {
     margin-top: 230px; }
   section .text3 {
     width: 100%;
-    margin-top: 15px; } }
+    margin-top: 15px; }
+
+  header nav a {
+    display: block;
+    padding-bottom: 5px; } }
 
 /*# sourceMappingURL=output.css.map */
