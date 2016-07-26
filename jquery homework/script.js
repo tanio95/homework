@@ -26,9 +26,10 @@
     });
 }); */
 
-/* 6-ta zadacha $(document).ready(function(){
-    $("button").click(function(){
-    $("h1,h2").addclass("blue");
+/* 6-ta zadacha
+$(document).ready(function(){
+    $(".btn-change").click(function(){
+        $("p1").show();
     });
-});
-*/
+}); */
+
