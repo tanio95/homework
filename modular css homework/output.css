@@ -1,0 +1,49 @@
+.table {
+  display: inline-block;
+  margin-left: 15px;
+  border-collapse: collapse; }
+  .table td {
+    border: 2px solid black;
+    text-align: center; }
+  .table .tr1 {
+    font-weight: bold; }
+  .table .tr2 {
+    color: white; }
+  .table .tr4 {
+    color: white; }
+
+.table1 .tr1 {
+  color: grey; }
+.table1 tr:nth-child(even) {
+  background-color: grey; }
+
+.table2 .tr1 {
+  color: green; }
+.table2 tr:nth-child(even) {
+  background-color: green; }
+
+.table3 .tr1 {
+  color: blue; }
+.table3 tr:nth-child(even) {
+  background-color: blue; }
+
+.btn {
+  border-radius: 10px;
+  margin-left: 15px;
+  margin-top: 15px;
+  padding: 10px;
+  color: white;
+  border: none;
+  outline: 0;
+  font-weight: bold; }
+
+.btn-print {
+  background-color: grey; }
+
+.btn-edit {
+  background-color: green; }
+
+.btn-delete {
+  background-color: red; }
+
+/*# sourceMappingURL=output.css.map */

@@ -1,0 +1,82 @@
+.table
+{
+	display:inline-block;
+	margin-left:15px;
+	border-collapse:collapse;
+
+	td 
+	{
+		border:2px solid black;
+		text-align:center;
+	}
+
+	.tr1
+	{
+		font-weight: bold;
+	}
+
+	.tr2
+	{
+		color:white;
+	}
+
+	.tr4
+	{
+		color:white;
+	}
+}
+
+.table1
+{
+	.tr1
+	{
+		color:grey;
+	}
+
+	tr:nth-child(even){background-color:grey;}
+}
+.table2
+{
+	.tr1
+	{
+		color:green;
+	}
+
+	tr:nth-child(even){background-color:green;}
+}
+.table3
+{
+	.tr1
+	{
+		color:blue;
+	}
+
+	tr:nth-child(even){background-color:blue;}
+}
+
+.btn 
+{
+	border-radius:10px;
+	margin-left:15px;
+	margin-top:15px;
+	padding:10px;
+	color:white;
+	border:none;
+	outline:0;
+	font-weight:bold;
+}
+
+.btn-print
+{
+	background-color:grey;
+}
+
+.btn-edit
+{
+	background-color:green;
+}
+
+.btn-delete
+{
+	background-color:red;
+}
