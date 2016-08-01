@@ -33,3 +33,8 @@ $(document).ready(function(){
     });
 }); */
 
+$(document).ready(function(){
+    $(".box-red").click(function(){
+        $(this).animate({width:"400px"});
+    });
+});
